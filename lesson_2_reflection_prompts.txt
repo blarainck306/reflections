@@ -17,6 +17,7 @@ Branches help to track unofficial or experimental change to the main branch (mas
 switching between branch and master branch easily.
 
 How do the diagrams help you visualize the branch structure?
+It is a direct diagrams to help visualization?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
