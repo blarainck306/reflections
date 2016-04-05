@@ -8,9 +8,13 @@ all files in the working directory.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+make sure the staging area only implying dffierence regarding 1 logical change before commiting.
+One can achieve by using 'git diff --staged'
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches help to track unofficial or experimental change to the main branch (master) easily. Making 
+switching between branch and master branch easily.
 
 How do the diagrams help you visualize the branch structure?
 
